@@ -1,4 +1,6 @@
 {
   "Y-life": { "type": "lifetime" },
-  "A-week": { "type": "1semaine" }
+  "A-week": { "type": "1semaine" },
+  "Z-mois": {"type": "1mois"}
+  "W-life": {"type": "lifetime"}
 }
